@@ -70,6 +70,7 @@ a{
     height: 50px;
 }
 h1{margin-left: 30px;
+	color: white;
 
 }
 
@@ -133,4 +134,9 @@ footer ul li{
 
 .company-style {
 	color: red;
+}
+
+.team-style{
+
+	color:red;
 }
